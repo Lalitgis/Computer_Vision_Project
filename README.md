@@ -3,8 +3,8 @@
 
 This repository contains a collection of GeoAI and computer vision experiments focused on two core tasks:
 
-- **🏙️ Building Detection** — Identifying and segmenting built structures from satellite or aerial imagery for applications in urban mapping, planning, and disaster management.
-- **🌱 Weed Detection** — Detecting invasive plant species in agricultural fields using drone/UAV imagery to enable targeted weeding and precision agriculture.
+- 🏙️ Building Detection — Identifying and segmenting built structures from satellite or aerial imagery for applications in urban mapping, planning, and disaster management.
+- 🌱 Weed Detection — Detecting invasive plant species in agricultural fields using drone/UAV imagery to enable targeted weeding and precision agriculture.
 
 Both tasks utilize deep learning, geospatial data, and image processing techniques integrated within a reproducible workflow.
 
@@ -36,14 +36,14 @@ Both tasks utilize deep learning, geospatial data, and image processing techniqu
 
 ## 🗃️ Datasets
 
-- **Building Detection:**
+- Building Detection:
   - [SpaceNet](https://spacenet.ai)
   - Custom-labeled imagery from DJI drones
   - Google Earth snapshots (aligned via QGIS)
 
-- **Weed Detection:**
+- Weed Detection:
   - UAV images captured from experimental plots
-  - Labels created using Labelme and Roboflow
+  - Labels created using LabelMe and Roboflow
   - NDVI/NDRE layers used in multispectral analysis
 
 ---
@@ -85,10 +85,10 @@ Results will be saved in the `outputs/` directory with shapefiles and annotated 
 
 ## 🧪 Evaluation Metrics
 
-* **IoU (Intersection over Union)**
-* **F1 Score**
-* **Precision & Recall**
-* **mAP\@0.5** for YOLO models
+* IoU (Intersection over Union)
+* F1 Score
+* Precision & Recall
+* mAP\@0.5 for YOLO models
 
 ---
 
