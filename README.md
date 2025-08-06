@@ -1,7 +1,3 @@
-Here’s a professional and informative `README.md` template for your GeoAI and Computer Vision project on GitHub. It includes sections on building and weed detection, technologies used, data, and usage instructions—designed to present your work clearly to collaborators, recruiters, or researchers.
-
----
-
 ````markdown
 # 🌍 GeoAI & Computer Vision Project
 
@@ -20,7 +16,7 @@ Both tasks utilize deep learning, geospatial data, and image processing techniqu
 - Detect buildings in remote and urban areas.
 - Compare model performance across different geographies.
 - Evaluate the use of various satellite and drone imagery resolutions.
-- Output: Shapefiles / raster masks for integration into GIS software (e.g., QGIS, ArcGIS).
+- Output: Shapefiles/raster masks for integration into GIS software (e.g., QGIS, ArcGIS).
 
 ### 2. Weed Detection
 - Segment weeds from crops in drone imagery.
