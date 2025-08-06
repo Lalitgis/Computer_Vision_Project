@@ -100,16 +100,6 @@ Results will be saved in the `outputs/` directory with shapefiles and annotated 
   * `.shp` shapefiles for vector use
 * Compatible with **QGIS**, **ArcGIS**, and **Google Earth Engine**
 
----
-
-## 🧑‍💻 Author
-
-**Lalit BC**
-Data Analyst & GIS Expert
-🌐 [LinkedIn](https://www.linkedin.com/in/lalitbc) | 🛰️ Co-founder at Map Mentors | ✉️ [lalitbc@example.com](mailto:lalitbc@example.com)
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
