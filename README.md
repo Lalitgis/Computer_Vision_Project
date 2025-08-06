@@ -124,8 +124,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 * [Ultralytics YOLO](https://github.com/ultralytics/yolov5)
 
 ```
-
----
-
-Let me know if you'd like this README translated into Nepali, converted to a PDF for sharing, or tailored for a specific audience (e.g., recruiters, funding agencies, or students).
-```
